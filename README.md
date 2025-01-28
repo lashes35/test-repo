@@ -1,3 +1,3 @@
 # test-repo
 
-Moin..
+Moin!
